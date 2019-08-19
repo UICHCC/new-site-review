@@ -1,2 +1,3 @@
-# new-site-review
-New UICHCC Homepage for review
+# uichcc-hugo
+
+This project try to convert current [UICHCC Homepage](https://uichcc.com) to a hugo powered site.
