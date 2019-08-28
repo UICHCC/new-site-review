@@ -1,3 +1,3 @@
 # uichcc-hugo
 
-This project try to convert current [UICHCC Homepage](https://uichcc.com) to a hugo powered site.
+This repo is for temporary host before the site is reviewed.
